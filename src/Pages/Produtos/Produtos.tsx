@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import CardProdutos from '../../Components/Produto/CardCarrinho/CardProdutos1'
+import CardProdutos from '../../Components/Produto/CardCarrinho/CardCarrinho'
 
 import  {listar}  from '../../services/Service'
 import  Produto  from '../../model/Produto'
