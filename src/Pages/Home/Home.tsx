@@ -1,5 +1,9 @@
 //import Carousel from '../../Components/Carrosel/Carrosel'
 import { useEffect, useState } from 'react';
+<<<<<<< HEAD
+=======
+import Carrosel2 from '../../Components/Carrosel2/Carrosel2'
+>>>>>>> 181d1e033f3f74221669946ea1c30f6bbe3bc0d5
 import ListProduto from '../../Components/Produto/ListProduto/ListProduto'
 import Categoria from '../../model/Categoria';
 import { buscar } from '../../services/Service';
